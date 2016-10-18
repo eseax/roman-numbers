@@ -20,7 +20,7 @@ public class HelloTest {
       .isNotEmpty()
       .contains("Hello")
       .endsWith("!")
-      .isEqualTo("Hello Julien!");
+      .isEqualTo("Hello Victor!");
   }
 
   @Test
